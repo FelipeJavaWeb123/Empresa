@@ -1,0 +1,26 @@
+.img_full{
+    height: 100%; width: 100%;
+    position: absolute;
+    background-attachment:fixed ;
+    margin: -10px;
+}
+
+.login{
+   width: 30%;
+   height: 100px;
+   border-radius: 50%;
+   position: relative;
+   top: 300px;
+   left: 500px; 
+   text-align: left;
+   transition: 3s; 
+}
+
+.texto{
+    border-radius: 10px;
+    width:100px;
+    height: 20px;
+    font-size: 15px;
+    border-color: rgb(36, 82, 168);
+    width: 200px;
+}
